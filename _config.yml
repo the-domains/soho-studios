@@ -1,0 +1,28 @@
+name: Soho Studios
+favicon: null
+layout_spectrum: 0.41415051301009953
+typography_spectrum: 0.6460027848370373
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4020935285370797
+  lightness: 0.46746201952919364
+  saturation: 0.8808404547162354
+  rhythmicContrast: 0.5160409936215729
+purpose: []
